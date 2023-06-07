@@ -1,7 +1,7 @@
 # Animal-feeding-Phase-I
 
 ## Aim: 
-
+To develop a animal feeding game-Phase-1 using unity.
 ## Algorithm:
 
 ### Player Controller
@@ -21,6 +21,11 @@
 ### Step 6: Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
 ## Program:
+```
+Developed By : Sanjay.S
+Registered No : 212221230086
+```
+
 ```
 Player Control:
 
